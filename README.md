@@ -12,7 +12,7 @@ Para esto se darrollo lo siguiente:
 En este repositorio encontraras lo siguiente:
 - algunos archivo usados
 
--notebook
+- notebook
 
 pdf del documento desarrollado
 
