@@ -18,6 +18,6 @@ En este repositorio encontraras lo siguiente:
 
 Enlace de los notebook usados:
 
-[Primer notebook usado] ([https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/731912106978746/1453925161163014/2243309592478441/latest.html)https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/731912106978746/1453925161163014/2243309592478441/latest.html)
+[Primer notebook usado]([https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/731912106978746/1453925161163014/2243309592478441/latest.html)https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/731912106978746/1453925161163014/2243309592478441/latest.html)
 
-[Segundo notebook usado] ([https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Person/f55k-p6yu](https://colab.research.google.com/drive/1xMht47XncZ9bz9Z9WQppfWLGbWinpDMu?usp=sharing)https://colab.research.google.com/drive/1xMht47XncZ9bz9Z9WQppfWLGbWinpDMu?usp=sharing)
+[Segundo notebook usado]([https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Person/f55k-p6yu](https://colab.research.google.com/drive/1xMht47XncZ9bz9Z9WQppfWLGbWinpDMu?usp=sharing)https://colab.research.google.com/drive/1xMht47XncZ9bz9Z9WQppfWLGbWinpDMu?usp=sharing)
