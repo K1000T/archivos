@@ -5,16 +5,16 @@ En la primera fase de este proyecto, se realizó un detallado análisis del cont
 Para esto se darrollo lo siguiente:
 - un modelo para predecir el sexo de una persona que sera arrestada
 
-- la edad de una persona que sera arrestada
+- la edad de las personas que seran arrestada
 
-- La ubicacion de una zona en donde habra un accidente
+- La raza de las personas involucradas
 
 En este repositorio encontraras lo siguiente:
-- algunos archivo usados
+- Archivo usados
 
-- notebook
+- Notebook utilizados
 
-pdf del documento desarrollado
+- pdf del documento desarrollado
 
 [Primer notebook usado]([https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/731912106978746/1453925161163014/2243309592478441/latest.html)https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/731912106978746/1453925161163014/2243309592478441/latest.html)
 
