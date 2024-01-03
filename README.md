@@ -14,7 +14,7 @@ En este repositorio encontraras lo siguiente:
 
 - Notebook utilizados
 
-- pdf del documento desarrollado
+- Pdf del documento desarrollado
 
 Enlace de los notebook usados:
 
